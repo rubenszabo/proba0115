@@ -1,1 +1,1 @@
-Oldal[https://rubenszabo.github.io/proba0115/]
+Oldal(https://rubenszabo.github.io/proba0115/)
